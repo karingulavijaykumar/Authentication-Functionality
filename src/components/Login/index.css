@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.login-heading {
+  text-align: center;
+}
+
+.login-btn-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
